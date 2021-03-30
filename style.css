@@ -96,7 +96,7 @@ button{
 #new-task {
   width: 318px;
 }
-#add-task > .btn:hover {
+.task__btn_add:hover {
   color: #0fc57c;
 }
 
